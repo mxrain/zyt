@@ -94,33 +94,5 @@
     "download_count": 0,
     "download_limit": 0,
     "other_information": {}
-  },
-  "040a01766e4bbcaa1f15f3a479140cc0": {
-    "name": "Spacedesk 驱动软件(扩屏)",
-    "category": "软件游戏 > 电脑软件",
-    "images": [
-      "https://www.spacedesk.net/wp-content/uploads/spacedesk-logo.svg"
-    ],
-    "tags": [
-      "Windows",
-      "Android"
-    ],
-    "source_links": {
-      "其他": {
-        "link": "https://downloads.spacedesk.net/downloads/spacedesk_driver_Win_10_64_v2128.msi",
-        "psw": "",
-        "size": ""
-      }
-    },
-    "uploaded": 1731602146515,
-    "update_time": 1731602146515,
-    "introduction": "",
-    "resource_information": {},
-    "link": "https://www.spacedesk.net/",
-    "rating": 5,
-    "comments": 0,
-    "download_count": 0,
-    "download_limit": 0,
-    "other_information": {}
   }
 }
