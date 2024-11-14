@@ -1,0 +1,29 @@
+{
+  "name": "321",
+  "category": "软件游戏 > 手机软件",
+  "images": [
+    "https://picsum.photos/200/300"
+  ],
+  "tags": [
+    "动作",
+    "动画",
+    "悬疑"
+  ],
+  "source_links": {
+    "夸克": {
+      "link": "https://picsum.photos/200/300",
+      "psw": "321",
+      "size": "321"
+    }
+  },
+  "uploaded": 1731598821604,
+  "update_time": 1731598821604,
+  "introduction": "https://picsum.photos/200/300",
+  "resource_information": {},
+  "link": "https://picsum.photos/200/300",
+  "rating": 5,
+  "comments": 0,
+  "download_count": 0,
+  "download_limit": 0,
+  "other_information": {}
+}
