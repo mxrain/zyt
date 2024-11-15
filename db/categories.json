@@ -182,6 +182,12 @@
   },
   "网站导航": {
     "icon": "BrainCircuit",
-    "link": "WebsiteNavigation"
+    "link": "WebsiteNavigation",
+    "items": {
+      "AI": {
+        "icon": "AppWindow",
+        "link": "AI"
+      }
+    }
   }
 }
