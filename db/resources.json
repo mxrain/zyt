@@ -123,7 +123,7 @@
     "other_information": {}
   },
   "7e4396a3d839969edcb34f295a5f43d4": {
-    "name": "cloudstream 看电视软件",
+    "name": "cloudstream",
     "category": "软件游戏 > 手机软件",
     "images": [
       "https://picsum.photos/200/300"
@@ -139,7 +139,7 @@
       }
     },
     "uploaded": 1731695720353,
-    "update_time": 1731695720353,
+    "update_time": 1731701111722,
     "introduction": "警告：默认情况下，此应用程序不提供任何视频源，您必须安装扩展以添加功能到应用程序。",
     "resource_information": {},
     "link": "https://github.com/recloudstream/cloudstream",
