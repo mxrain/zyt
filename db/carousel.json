@@ -1,8 +1,7 @@
-[{
+{
   "id": "carousel_1",
   "name": "首页轮播图",
   "description": "网站首页轮播图，展示最新产品和活动",
-  "position": "homepage",
   "status": true,
   "type": "banner",
   "createTime": "2024-10-27T10:00:00Z",
@@ -48,4 +47,3 @@
     }
   ]
 }
-]
