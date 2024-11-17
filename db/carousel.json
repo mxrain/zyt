@@ -11,8 +11,8 @@
     {
       "id": "item_1",
       "mediaType": "image",
-      "mediaUrl": "https://example.com/image1.jpg",
-      "linkUrl": "https://example.com/product1",
+      "mediaUrl": "https://picsum.photos/700/600?a",
+      "linkUrl": "https://picsum.photos/700/600?a",
       "title": "秋季新品上市",
       "subTitle": "时尚舒适，值得拥有",
       "description": "点击查看更多秋季新品",
@@ -35,8 +35,8 @@
     {
       "id": "item_3",
       "mediaType": "image",
-      "mediaUrl": "https://example.com/image2.jpg",
-      "linkUrl": "https://example.com/promotion1",
+      "mediaUrl": "https://picsum.photos/700/600?b",
+      "linkUrl": "https://picsum.photos/700/600?b",
       "title": "限时促销活动",
       "subTitle": "全场商品8折优惠",
       "description": "活动截止日期：2024-11-10",
