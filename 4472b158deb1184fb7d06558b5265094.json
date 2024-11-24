@@ -1,25 +1,41 @@
 {
-  "name": "123",
-  "category": "影视动漫 > 电影",
+  "name": "VideoCaptioner 卡卡字幕助手",
+  "category": "软件游戏 > 电脑软件",
   "images": [
-    "https://picsum.photos/200/300"
+    "https://camo.githubusercontent.com/19a5ba260da3fd7abb90807daff85b2aca2f15787cec46bed37cf4e5b63e9677/68747470733a2f2f68312e617070696e6e2e6d652f66696c652f313733313438373430353838345f6d61696e2e706e67",
+    "https://camo.githubusercontent.com/ca95a0381be7a0812323e73caf5e62590128964b2cbee3527d52f97a7495827d/68747470733a2f2f68312e617070696e6e2e6d652f66696c652f313733313438373431303137305f70726576696577312e706e67",
+    "https://camo.githubusercontent.com/ca95a0381be7a0812323e73caf5e62590128964b2cbee3527d52f97a7495827d/68747470733a2f2f68312e617070696e6e2e6d652f66696c652f313733313438373431303137305f70726576696577312e706e67",
+    "https://camo.githubusercontent.com/c80d64b11f927bd4204e0045c46b12dc57e793c3bc6c9dec9bcf425a3d474fdd/68747470733a2f2f68312e617070696e6e2e6d652f66696c652f313733313438373431303833325f70726576696577322e706e67",
+    "https://camo.githubusercontent.com/c80d64b11f927bd4204e0045c46b12dc57e793c3bc6c9dec9bcf425a3d474fdd/68747470733a2f2f68312e617070696e6e2e6d652f66696c652f313733313438373431303833325f70726576696577322e706e67"
   ],
-  "tags": {},
+  "tags": [
+    "Windows"
+  ],
   "source_links": {
-    "夸克": {
-      "link": "",
+    "其他": {
+      "link": "https://github.com/WEIFENG2333/VideoCaptioner/releases/tag/v1.1.1",
       "psw": "",
+      "size": "52.2MB"
+    },
+    "蓝奏云盘": {
+      "link": "https://henji.lanzout.com/b01vcf8xzc",
+      "psw": "hjhj",
       "size": ""
     }
   },
   "uploaded": 1732464872018,
-  "update_time": 1732464881200,
-  "introduction": "",
-  "resource_information": {},
-  "link": "",
+  "update_time": 1732473149073,
+  "introduction": "一款基于大语言模型(LLM)的视频字幕处理助手，支持语音识别、字幕断句、优化、翻译全流程处理\n卡卡字幕助手（VideoCaptioner）操作简单且无需高配置，支持网络调用和本地离线（支持调用GPU）两种方式进行语音识别，利用可用通过大语言模型进行字幕智能断句、校正、翻译，字幕视频全流程一键处理！为视频配上效果惊艳的字幕。\n\n    🎯 无需GPU即可使用强大的语音识别引擎，生成精准字幕\n    ✂️ 基于 LLM 的智能分割与断句，字幕阅读更自然流畅\n    🔄 AI字幕多线程优化与翻译，调整字幕格式、表达更地道专业\n    🎬 支持批量视频字幕合成，提升处理效率\n    📝 直观的字幕编辑查看界面，支持实时预览和快捷编辑\n    🤖 消耗模型 Token 少，且内置基础 LLM 模型，保证开箱即用\n",
+  "resource_information": {
+    "LLM 配置教程": "https://henjihenji.feishu.cn/wiki/QPTMwR99sixPxxkrJTXc0MvRnHe"
+  },
+  "link": "https://github.com/WEIFENG2333/VideoCaptioner",
   "rating": 5,
   "comments": 0,
   "download_count": 0,
   "download_limit": 0,
-  "other_information": {}
+  "other_information": {
+    "faster-whisper-GUI": "https://github.com/CheshireCC/faster-whisper-GUI",
+    "VideoLingo": "https://github.com/Huanshere/VideoLingo"
+  }
 }
