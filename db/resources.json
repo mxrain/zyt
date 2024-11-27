@@ -191,5 +191,59 @@
       "faster-whisper-GUI": "https://github.com/CheshireCC/faster-whisper-GUI",
       "VideoLingo": "https://github.com/Huanshere/VideoLingo"
     }
+  },
+  "21ad265ffdcbbf2bb9db6f1e9a9d2958": {
+    "name": "YUZU模拟器",
+    "category": "",
+    "images": [
+      "https://yuzu-mirror.github.io/images/jumbotron/001-Super%20Mario%20Odyssey_hu0c42f202a46190f4d1b484de112f57e5_2213776_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/entry/yuzu-progress-report-jan-2024/summary_hue7611b0d85d6a66d0c18e5fb9dadfce9_117457_1280x0_resize_q90_bgffffff_box_3.jpg",
+      "https://yuzu-mirror.github.io/entry/yuzu-progress-report-dec-2023/summary_hud78088947fd1dcf9fe8d152fd4658fd4_1336859_1280x0_resize_q90_bgffffff_box_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/002-The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD_hua36c3393a84f1889ace74f38d4d28be4_2257593_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/003-Super%20Smash%20Bros%20Ultimate_huad2294707040a661e911ad01371a358d_1057107_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/004-Pokemon%20Sword_hu982ff3127e609266c0f7f6ddd746db66_3630959_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/005-Hyrule%20Warriors%20Age%20of%20Calamity_hu1e456085e0f099c08a84d76f19eb61d7_2571485_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/006-Paper%20Mario%20the%20Origami%20King_hub2128d9f8798339ea07af4a97994eaaa_2863748_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/007-The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild_hu073ede8969001a44f5a4e1175f96f3a3_4725198_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/008-ARMS_hu2d65f9b11b3630ba28dd708912d55cc4_3636196_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/009-NEO%20The%20World%20Ends%20With%20You_hue53c2cb93ef66f4d49c00e4ce6eb6001_1809795_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/010-Animal%20Crossing%20New%20Horizons_hudbf9cc446f93d203a947e597c624bb5a_3252874_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/011-Monster%20Hunter%20Stories%202_hu7c5eca1c57c478162e7eb0129a815841_2514983_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/011-Pok%C3%A9mon%20Mystery%20Dungeon%20Rescue%20Team%20DX_hu79f378ba07c874f996d7dca198137402_1934455_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/012-The%20Legend%20of%20Zelda%20Links%20Awakening_hucc86dd47c5676952bc4b1763a074f205_4542323_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/013-Fire%20Emblem%20Three%20Houses_huf5b4db3bc2da5f9b26fc1b998fbf17be_3736664_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/014-Yoshi%27s%20Crafted%20World_hu4614a736336ca4a843d77a7573d54b33_1796009_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/015-Xenoblade%20Chronicles%202_hu9d19219028723db78dbdc6c87c3bbda4_4353257_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/016-Mario%20Kart%208%20Deluxe_hu5cb62b70bd23b7ace92b2561e350b7b9_3332062_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/017-Pokemon%20Let%27s%20Go_hub6d14e1c0b5960404437d872f121efbc_2422346_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/018-Splatoon%202_hu60841ce4e0823eb7ebe2ec1d99c61a56_2346052_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/019-Astral%20Chain_hu6e0a465149d1c75a567e311cd439f084_3402613_426x240_fill_q95_bgffffff_box_smart1_3.jpg",
+      "https://yuzu-mirror.github.io/images/jumbotron/020-Luigi%27s%20Mansion%203_hue61830451fc59cdb1246afd088469aaa_3762300_426x240_fill_q95_bgffffff_box_smart1_3.jpg"
+    ],
+    "tags": [
+      "Windows"
+    ],
+    "source_links": {
+      "夸克": {
+        "link": "https://pan.quark.cn/s/263f82f9579a",
+        "psw": "",
+        "size": "622MB"
+      },
+      "百度云盘": {
+        "link": "https://pan.baidu.com/s/19eul362vWBdY7hQ0jMTg8A?pwd=nnja",
+        "psw": "nnja",
+        "size": "622MB"
+      }
+    },
+    "uploaded": 1732688584329,
+    "update_time": 1732688584329,
+    "introduction": "yuzu 是一个实验性的开源 Nintendo Switch 模拟器，\n以GPLv3.0+授权。\n此软件不得用于运行非法取得的游戏。",
+    "resource_information": {},
+    "link": "https://yuzu-mirror.github.io/",
+    "rating": 5,
+    "comments": 0,
+    "download_count": 0,
+    "download_limit": 0,
+    "other_information": {}
   }
 }
