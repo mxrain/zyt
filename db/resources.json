@@ -349,5 +349,36 @@
     "download_count": 0,
     "download_limit": 0,
     "other_information": {}
+  },
+  "949de67dfe6979aeea6ea1c9228edf2c": {
+    "name": "Rufus",
+    "category": "软件游戏 > 电脑软件",
+    "images": [
+      "https://rufus.ie/pics/screenshot1_zh_CN.png",
+      "https://rufus.ie/pics/screenshot2_en.png",
+      "https://rufus.ie/pics/screenshot3_en.png",
+      "https://rufus.ie/pics/screenshot4_en.png",
+      "https://rufus.ie/pics/screenshot5_en.png"
+    ],
+    "tags": [
+      "Windows"
+    ],
+    "source_links": {
+      "其他": {
+        "link": "https://rufus.ie/zh/#google_vignette",
+        "psw": "",
+        "size": ""
+      }
+    },
+    "uploaded": 1734410689060,
+    "update_time": 1734410689060,
+    "introduction": "Rufus 是一款格式化和创建 USB 启动盘的辅助工具。\n\n\n本软件适用于以下场景：\n\n需要将可引导 ISO (Windows、Linux、UEFI 等) 刻录到 USB 安装媒介的情况\n需要处理未安装操作系统的设备的情况\n需要在 DOS 环境下刷写 BIOS 或其他固件的情况\n需要运行低级工具的情况\nRufus 麻雀虽小，但五脏俱全！\n\n本页下方列出了一部分 Rufus 所支持的 ISO 列表。 (1)",
+    "resource_information": {},
+    "link": "https://rufus.ie/zh/#google_vignette",
+    "rating": 5,
+    "comments": 0,
+    "download_count": 0,
+    "download_limit": 0,
+    "other_information": {}
   }
 }
