@@ -1,5 +1,5 @@
 {
-  "name": "calibre",
+  "name": "calibre 电纸书编辑制作工具",
   "category": "软件游戏 > 电脑软件",
   "images": [
     "https://calibre-ebook.com/resources/img/home-feature.jpg",
@@ -19,7 +19,7 @@
     }
   },
   "uploaded": 1733128738850,
-  "update_time": 1733128738850,
+  "update_time": 1745642059964,
   "introduction": "calibre is a powerful and easy to use e-book manager. Users say it’s outstanding and a must-have. It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software. It’s also completely free and open source and great for both casual users and computer experts.\ncalibre 是一款功能强大且易于使用的电子书管理器。用户表示它非常出色，是必备品。它几乎可以让你做所有的事情，并且比普通的电子书软件更进一步。它也是完全免费和开源的，非常适合休闲用户和计算机专家。",
   "resource_information": {},
   "link": "https://calibre-ebook.com/",
