@@ -459,7 +459,7 @@
     "other_information": {}
   },
   "54781a1d43512709256103894bb12f1e": {
-    "name": "starwindsoftware ",
+    "name": "starwindsoftware  openwrt  Img制作工具",
     "category": "软件游戏 > 电脑软件",
     "images": [
       "https://picsum.photos/200/300"
@@ -475,7 +475,7 @@
       }
     },
     "uploaded": 1745640935381,
-    "update_time": 1745640935381,
+    "update_time": 1745642151052,
     "introduction": "StarWind Software 是一家专注于虚拟化和存储解决方案的软件公司，特别是为中小企业和企业级用户提供高性能、高可用性的存储和虚拟化产品。\n\n最核心的产品叫做 StarWind Virtual SAN (VSAN)。下面是它的几个关键点：\n\n⭐ StarWind Virtual SAN（VSAN）是什么？\n它是一个将普通 Windows Server（或 Windows 10/11）变成共享存储的解决方案。主要用途是：\n\n代替昂贵的物理 SAN/NAS 设备\n\n为虚拟化环境提供高可用存储（如 VMware vSphere、Microsoft Hyper-V）\n\n通过网络实现存储池的同步镜像，实现冗余和故障转移\n\n✅ 它的优点包括：\n软件定义存储：完全基于软件，不需要额外硬件。\n\n高可用性：支持同步复制，容错机制强。\n\n成本低：不需要买物理 SAN。\n\n支持多种平台：包括 Windows、Hyper-V、vSphere、Azure、AWS 等。\n\n📦 StarWind 还有其他产品：\nStarWind V2V Converter：虚拟机格式转换工具（如 VMware ↔ Hyper-V）\n\nStarWind Backup Appliance：备份解决方案\n\nStarWind NVMe-oF Initiator：高性能远程 NVMe 存储接入",
     "resource_information": {},
     "link": "https://www.starwindsoftware.com/",
