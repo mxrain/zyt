@@ -1,0 +1,29 @@
+{
+  "name": "AnotherRedisDesktopManager",
+  "category": "软件游戏 > 电脑软件",
+  "images": [
+    "https://picsum.photos/200/300"
+  ],
+  "tags": [
+    "Windows",
+    "Linux",
+    "MacOS"
+  ],
+  "source_links": {
+    "其他": {
+      "link": "https://github.com/qishibo/AnotherRedisDesktopManager/releases/tag/v1.7.1",
+      "psw": "",
+      "size": ""
+    }
+  },
+  "uploaded": 1745641461716,
+  "update_time": 1745641461716,
+  "introduction": "🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+  "resource_information": {},
+  "link": "https://github.com/qishibo/AnotherRedisDesktopManager",
+  "rating": 5,
+  "comments": 0,
+  "download_count": 0,
+  "download_limit": 0,
+  "other_information": {}
+}
