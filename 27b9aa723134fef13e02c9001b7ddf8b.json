@@ -1,0 +1,25 @@
+{
+  "name": "scrcpy 手机投屏软件",
+  "category": "软件游戏 > 电脑软件",
+  "images": [
+    "https://picsum.photos/200/300"
+  ],
+  "tags": {},
+  "source_links": {
+    "其他": {
+      "link": "https://github.com/Genymobile/scrcpy/releases",
+      "psw": "",
+      "size": ""
+    }
+  },
+  "uploaded": 1745641262630,
+  "update_time": 1745641262630,
+  "introduction": "",
+  "resource_information": {},
+  "link": "https://github.com/Genymobile/scrcpy",
+  "rating": 5,
+  "comments": 0,
+  "download_count": 0,
+  "download_limit": 0,
+  "other_information": {}
+}
