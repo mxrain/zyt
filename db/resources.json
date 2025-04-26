@@ -405,5 +405,32 @@
     "download_count": 0,
     "download_limit": 0,
     "other_information": {}
+  },
+  "61f8743a2947037be8f6dc9108356beb": {
+    "name": "TrafficMonitor 流量监控器",
+    "category": "软件游戏 > 电脑软件",
+    "images": [
+      "https://picsum.photos/200/300"
+    ],
+    "tags": [
+      "Windows"
+    ],
+    "source_links": {
+      "其他": {
+        "link": "https://github.com/zhongyang219/TrafficMonitor/releases",
+        "psw": "",
+        "size": ""
+      }
+    },
+    "uploaded": 1745640249413,
+    "update_time": 1745640249413,
+    "introduction": "",
+    "resource_information": {},
+    "link": "https://github.com/zhongyang219/TrafficMonitor",
+    "rating": 5,
+    "comments": 0,
+    "download_count": 0,
+    "download_limit": 0,
+    "other_information": {}
   }
 }
