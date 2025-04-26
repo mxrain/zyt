@@ -1,5 +1,5 @@
 {
-  "name": "tabby",
+  "name": "tabby  shell工具",
   "category": "软件游戏 > 电脑软件",
   "images": [
     "https://picsum.photos/200/300"
@@ -13,7 +13,7 @@
     }
   },
   "uploaded": 1745640735372,
-  "update_time": 1745640735372,
+  "update_time": 1745642089028,
   "introduction": "",
   "resource_information": {},
   "link": "https://github.com/Eugeny/tabby",
