@@ -1,5 +1,5 @@
 {
-  "name": "AnotherRedisDesktopManager",
+  "name": "AnotherRedisDesktopManager  redis客户端",
   "category": "软件游戏 > 电脑软件",
   "images": [
     "https://picsum.photos/200/300"
@@ -17,7 +17,7 @@
     }
   },
   "uploaded": 1745641461716,
-  "update_time": 1745641461716,
+  "update_time": 1745642165396,
   "introduction": "🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
   "resource_information": {},
   "link": "https://github.com/qishibo/AnotherRedisDesktopManager",
