@@ -1,5 +1,5 @@
 {
-  "name": "cloudstream",
+  "name": "cloudstream 视屏下载工具",
   "category": "软件游戏 > 手机软件",
   "images": [
     "https://images-ext-1.discordapp.net/external/xyjbDy1MGj5jlFPwt49M2Lc46WnSCz6zHqQFmJO7OKk/https/opengraph.githubassets.com/916dc76cbec233e2fa06bdaac82f2b839f2cbcfcf53f0c285afab5cb0f004a3b/recloudstream/cloudstream/releases/tag/pre-release?format=webp&width=1188&height=594"
@@ -15,7 +15,7 @@
     }
   },
   "uploaded": 1731695720353,
-  "update_time": 1732374940394,
+  "update_time": 1745642032941,
   "introduction": "CloudStream 3（CS3），通常简称为CloudStream，是一款免费开源的Android移动和Android电视应用程序，用于从YouTube等第三方来源流式传输和下载视频。它在Google Play商店中不可用，应通过其他方式安装。该应用程序支持多种语言，默认情况下没有任何提供商；应安装扩展以添加提供程序。CloudStream无广告，无需帐户即可工作，尽管一些可选的第三方服务（如OpenSubtitles）需要登录。CloudStream 3 (CS3), often referred to as just CloudStream, is a free and open-source Android mobile and Android TV application for streaming and downloading videos from third-party sources, such as YouTube. It is not available on the Google Play Store and should be installed through alternative means. Available in multiple languages, the app doesn't come with any providers by default; extensions should be installed to add providers. CloudStream is ad-free and works without an account, although some optional third-party services, such as OpenSubtitles, require signing in. ",
   "resource_information": {
     "CloudStream Wiki": "https://cloudstream.miraheze.org/wiki/Main_Page"
